@@ -39,8 +39,8 @@ function GetLatestReleaseInfo() { $.getJSON(&amp;lsquo;https://api.github.com/re
       <pubDate>Tue, 11 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://friendimaginary.github.io/home/about/</guid>
-      <description>Biography Patryk Soika is an Information Technology Specialist at Penn State University&amp;rsquo;s Earth and Environmental Systems Institute. He does all the usual IT things, but in his spare time he studies data science and R programming. When ever possible, he helps his colleagues with their research and tries to teach them what he&amp;rsquo;s learned.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu.</description>
+      <description>Biography Patryk Soika is an Information Technology Specialist in Penn State University&amp;rsquo;s Earth and Environmental Systems Institute. He does all the usual IT things, but in his spare time he studies data science and R programming. When ever possible, he helps his colleagues with their research and tries to pass on what he has learned.
+He once calculated the set of integers mostly likely to win the lottery. Unfortunately, they weren&amp;rsquo;t significantly better than any other set.</description>
     </item>
     
     <item>

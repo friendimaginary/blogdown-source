@@ -37,10 +37,15 @@ weight = 5
 
 # Biography
 
-Patryk Soika is an Information Technology Specialist at Penn State University's
+Patryk Soika is an Information Technology Specialist in Penn State University's
 Earth and Environmental Systems Institute.  He does all the usual IT things, but
-in his spare time he studies data science and R programming.  When ever possible,
-he helps his colleagues with their research and tries to teach them what he's 
-learned.
+in his spare time he studies data science and R programming.  When ever
+possible, he helps his colleagues with their research and tries to pass on what
+he has learned.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He once calculated the set of integers mostly likely to win the lottery.
+Unfortunately, they weren't significantly better than any other set.
+
+His mid-life cricycle is basically a Vespa, but that doesn't mean he's doing it
+wrong.
+
